@@ -150,10 +150,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Juan Sebastian Maya - jsebasmm@gmail.com
-www.linkedin.com/in/juan-s-maya-m
-GitHub Profile URL: jmayamartinez00@mylangara.ca
+* **Name:** Juan Sebastian Maya
+* **Email:** jsebasmm@gmail.com
+* **LinkedIn:** [linkedin.com/in/juan-s-maya-m](https://www.linkedin.com/in/juan-s-maya-m)
+* **GitHub Profile:** [github.com/jmaya90](https://github.com/jmaya90)
 
-Project Link: [https://github.com/YourUsername/job_scraper](https://github.com/YourUsername/job_scraper)
+Project Link: [https://github.com/jmaya90/smart-job-finder](https://github.com/jmaya90/smart-job-finder)
 
 ---
