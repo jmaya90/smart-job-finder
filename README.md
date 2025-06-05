@@ -100,6 +100,7 @@ Follow these steps to set up and run the project on your local machine.
     * Explore the **matched job listings**, which are sorted by relevance. Expand each job to see details and use the dropdown to **update its application status**.
 
 ## 📁 Project Structure
+```bash
 job_scraper/
 ├── .venv/                         # Python Virtual Environment (ignored by Git)
 ├── config/                        # Application configuration files
@@ -122,6 +123,7 @@ job_scraper/
 ├── app.py                         # Main Streamlit application entry point
 ├── README.md                      # This file
 └── requirements.txt               # List of Python dependencies
+```
 
 ## 🗺️ Roadmap & Future Enhancements
 
